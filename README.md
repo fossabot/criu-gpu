@@ -6,6 +6,7 @@
     https://github.com/checkpoint-restore/criu/actions/workflows/podman-test.yml)
 [![CircleCI](https://circleci.com/gh/checkpoint-restore/criu.svg?style=svg)](
     https://circleci.com/gh/checkpoint-restore/criu)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FProject-HAMi%2Fcriu-gpu.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FProject-HAMi%2Fcriu-gpu?ref=badge_shield)
 
 <p align="center"><img src="https://criu.org/w/images/1/1c/CRIU.svg" width="256px"/></p>
 
@@ -73,3 +74,6 @@ The project is licensed under GPLv2 (though files sitting in the lib/ directory 
 
 All files in the images/ directory are licensed under the Expat license (so-called MIT).
 See the images/LICENSE file.
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FProject-HAMi%2Fcriu-gpu.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FProject-HAMi%2Fcriu-gpu?ref=badge_large)
